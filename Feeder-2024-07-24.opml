@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeder - RSS Feed Reader</title>
+    <dateCreated>2024-07-24T19:23:26Z</dateCreated>
+  </head>
+  <body>
+    <outline text="bellingcat" title="bellingcat" type="rss" xmlUrl="https://www.bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.bellingcat.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    <outline text="Taproot Edmonton" title="Taproot Edmonton" type="rss" xmlUrl="https://edmonton.taproot.news/feed" htmlUrl="https://edmonton.taproot.news/feed" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/edmonton.taproot.news" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    <outline text="The Sprawl" title="The Sprawl" type="rss" xmlUrl="https://www.sprawlcalgary.com/feed.rss" htmlUrl="https://www.sprawlcalgary.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.sprawlcalgary.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    <outline text="The Tyee" title="The Tyee" type="rss" xmlUrl="https://thetyee.ca/rss2.xml" htmlUrl="http://thetyee.ca/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/thetyee.ca" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    <outline text="ProPublica" title="ProPublica" type="rss" xmlUrl="http://feeds.propublica.org/propublica/main" htmlUrl="https://www.propublica.org/feeds/54Ghome" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.propublica.org" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    <outline text="CBC | Edmonton News" title="CBC | Edmonton News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada-edmonton" htmlUrl="https://www.cbc.ca/news/canada/edmonton/?cmp=rss" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.cbc.ca" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    <outline text="CBC | Canada News" title="CBC | Canada News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada" htmlUrl="https://www.cbc.ca/news/canada/?cmp=rss" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.cbc.ca" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    <outline text="Omnibus" title="Omnibus" type="rss" xmlUrl="https://www.omnibusproject.com/episodes?format=rss" htmlUrl="https://www.omnibusproject.com/episodes/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.omnibusproject.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    <outline text="BBC News" title="BBC News" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.bbc.co.uk" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+  </body>
+</opml>
