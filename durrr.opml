@@ -6,8 +6,8 @@
     <body>
             
         <outline text="News" title="News">
-            <outline type="rss" text="CBC Edmonton News" title="Edmonton News" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada-edmonton" htmlUrl=""/>
-            <outline type="rss" text="CBC Canada News" title="Canada News" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada" htmlUrl=""/>
+            <outline type="rss" text="Edmonton News" title="Edmonton News" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada-edmonton" htmlUrl=""/>
+            <outline type="rss" text="Canada News" title="Canada News" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada" htmlUrl=""/>
             <outline type="rss" text="BBC News" title="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl=""/>               
         </outline>
 
