@@ -5,8 +5,6 @@
     </head>
     <body>
             
-        </outline>
-
         <outline text="News" title="News">
             <outline type="rss" text="CBC | Edmonton News" title="CBC | Edmonton News" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada-edmonton" htmlUrl=""/>
             <outline type="rss" text="CBC | Canada News" title="CBC | Canada News" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada" htmlUrl=""/>
