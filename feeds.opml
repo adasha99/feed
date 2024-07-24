@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>feedolin</title>
+    </head>
+    <body>
+            
+        </outline>
+
+        <outline text="News" title="News">
+            <outline type="rss" text="CBC | Edmonton News" title="CBC | Edmonton News" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada-edmonton" htmlUrl=""/>
+            <outline type="rss" text="CBC | Canada News" title="CBC | Canada News" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada" htmlUrl=""/>
+            <outline type="rss" text="BBC News" title="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl=""/>               
+            <outline type="rss" text="Taproot Edmonton" title="Taproot Edmonton" xmlUrl="https://edmonton.taproot.news/feed" htmlUrl=""/>
+            <outline type="rss" text="The Sprawl" title="The Sprawl" xmlUrl="https://www.sprawlcalgary.com/feed.rss" htmlUrl=""/>
+        </outline>
+
+
+
+
+
+    </body>
+</opml>
